@@ -2,9 +2,9 @@ module.exports = {
   /*
   ** Headers of the page
   */
-  // router: {
-  //   base: '/portfolio/'
-  // },
+  router: {
+    base: '/portfolio/'
+  },
   head: {
     title: '김현구의 일생일대 웹 포트폴리오',
     meta: [
