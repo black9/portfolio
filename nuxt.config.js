@@ -14,7 +14,7 @@ module.exports = {
       { property: "og:title", content: '김현구의 일생일대 웹 포트폴리오' },
       { property: "og:description", content: '김현구의 일생일대 웹 포트폴리오' },
       { property: "og:url", content: 'https://black9.github.io/portfolio' },
-      { property: "og:image", content: 'meta.png' },
+      { property: "og:image", content: 'https://raw.githubusercontent.com/black9/portfolio/master/assets/image/meta/meta.jpg' },
       { property: "og:image:type", content: "image/png" },
       { property: "og:image:width", content: "400" },
       { property: "og:image:height", content: "300" }
