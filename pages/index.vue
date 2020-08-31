@@ -13,7 +13,7 @@
           <p>
             안녕하세요 김현구입니다. <br/>
           </p>
-            평범한 가정에서 태어나 아버지가 컴퓨터를 종사하여 컴퓨터를 빨리 접하였습니다.<br/>
+            평범한 가정에서 태어나 아버지가 컴퓨터를 종사하여 어렸을 때 컴퓨터를 빨리 접하게 되었습니다.<br/>
             그 덕에 컴퓨터를 잘 다뤄 초등학교 때부터 컴퓨터를 잘 다루는 애로 알려졌고, 선생님들의 컴퓨터에 문제가 발생하면 해결함으로써 보람을 느끼고 좋아한다는 결론에 이르렀습니다.<br/>
             <br/>
             후에 사이버보안 학과를 진학한 후, 보안과 블록체인에 관심이 생겨 병행하여 공부하였고<br/>
@@ -73,25 +73,27 @@ export default {
       ],
       paCards: [
         {
-          'date': '2019.06 - 2019.11',
-          'title': 'BlockChain Loan P2P,WANT Project',
-          'img': '/pa/want-project.png',
-          'contents': [
-            '<strong>블록체인 대출 P2P, WANT 프로젝트</strong>',
-            '- 팀명: WANT / 팀 인원: 3명',
-            '- Front-End 개발 및 서버 관리, PPT 영상 제작',
-            '- 개발툴 : React.js, Firebase, HyperLedger Composer, Node.js, ',
-            '- <a href="https://github.com/WANT-BlockChain/want_ReactApp_Web">Github</a> &nbsp <a href="https://bit.ly/2QyPws6">PPT</a> &nbsp <a href="https://www.notion.so/hyeon9/P2P-5218dc29c5a2462f8cf18a71e9ddbc3e"> Notion</a>'
-          ]
-        },
-        {
           'date': '2019.11.29',
           'title': 'Blockchain-based credit rating system for online P2P loans',
           'img': '/pa/dcs-conference.png',
           'contents': [
             '<strong>온라인 P2P 대출, 블록체인기반 신용평가시스템</strong>',
             '- 학회명 : 2019년도 한국디지털콘텐츠학회 학술대회',
+            '- 입상 : 금상 ',
             '- <a href="https://bit.ly/31GR3ms">논문 다운로드</a> &nbsp <a href="https://bit.ly/3jpieYQ"> 입상</a>'
+          ]
+        },
+                {
+          'date': '2019.06 - 2019.11',
+          'title': 'BlockChain Loan P2P,WANT Project',
+          'img': '/pa/want-project.png',
+          'contents': [
+            '<strong>블록체인 대출 P2P, WANT 프로젝트</strong>',
+            '- 팀명: WANT / 팀 인원: 3명',
+            '- 개발 기여도 : 100% (Front-End), 홍보 영상 제작',
+            '- 입상 : 우수상 , 특별상',
+            '- 개발툴 : React.js, Firebase, HyperLedger Composer, Node.js, ',
+            '- <a href="https://github.com/WANT-BlockChain/want_ReactApp_Web">Github</a> &nbsp <a href="https://bit.ly/2QyPws6">PPT</a> &nbsp <a href="https://www.notion.so/hyeon9/P2P-5218dc29c5a2462f8cf18a71e9ddbc3e"> Notion</a>'
           ]
         },
         {
@@ -101,7 +103,7 @@ export default {
           'contents': [
             '<strong>자격층 취득 솔루션 어플리케이션(졸업작품) </strong>',
             '- 팀명 : Licence / 팀 인원 : 3명',
-            '- 개발 기여도 : 100% ',
+            '- 개발 기여도 : 100% (FullStack)',
             '- 사용언어 : (Android)JAVA, PHP, HTML, Firebase',
             '- <a href="https://github.com/black9/CapstonDesign">Github</a> &nbsp <a href="https://bit.ly/3gIFrTY"> PPT</a> &nbsp <a href="https://www.notion.so/hyeon9/4f3794b29f9a45e08486494366821351"> Notion</a>'
           ]
